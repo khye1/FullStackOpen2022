@@ -14,6 +14,6 @@
 // document.getElementsById('notes').appendChild(ul);
 
 let list1 = document.getElementsByClassName('notes')[0];
-let newListElement = document.createElement('li');
+let newListElement = document.createElement('li');be
 newListElement.textContent = 'Page manipulation from console is easy';
 list1.appendChild(newListElement);
